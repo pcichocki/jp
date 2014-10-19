@@ -4,14 +4,14 @@
 1. Bachanek, Bartosz
 1. Bańkowski, Jacek
 1. Bar, Łukasz / 19.10
-1. Bartel, Krzysztof (https://github.com/deer667/zadania_z_basha/tree/master).
+1. Bartel, Krzysztof
 1. Bieszke, Marek
 1. Bigus, Michał / 19.10
 1. Borawski, Rafał / 19.10
-1. [Braun, Damian](https://github.com/damianbraun/jpzadania)
+1. Braun, Damian
 1. Brillowski, Tomasz / 19.10
 1. Bryl, Adrian
-1. Cichocki, Patryk
+1. [Cichocki, Patryk](https://github.com/pcichocki)
 1. Ciepliński, Dominik
 1. Czarkowska, Monika
 1. Darecki, Filip / 19.10
